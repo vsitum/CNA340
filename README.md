@@ -1,33 +1,24 @@
 # Project Title
 
-One Paragraph of project description goes here
+   Vlado worked on Mid_Term Labs from ZyBook 5.3 LAB*: Program: Automobile service invoice for 
+     his Homework IT project management.
 
 ## Getting Started
 
-These instructions will [do something] on your local machine for [development/experimentation/demo]
+ This project can be run on local computer.
 
 ### Prerequisites
 
-[Project] requires [software and version] to run, with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
-
-```
-sudo apt update
-sudo apt upgrade
-sudo apt install package1 package2
-```
+Pyton PyCharm must be installed on local computer.
 
 ## Running
-Once installed you can run the program with the following command
 
-```
-python demo.py
-```
+This project ZyBook5-3.py can run in PyCharm IDE.
 
-Add any additional ways to run the program below
 
-```
-python demo.py test.txt
-```
-
+ Add any additional ways to run the program.
+       This project can run in cmd console by navigating to home directory 
+       where ZyBook5-3.py saved. Runing example is below.
+            C:\Users\VladoPC>PyCharmProjects\Lab1\PythonPractice\ZyBook5-3.py
 ## Thanks
-Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
+  I did it by self!
