@@ -1,25 +1,29 @@
 # Project Title
 
-One Paragraph of project description goes here.
-This demonstrates a pull request for CNA 340 IT Project Management.
+ Vlado worked on Mid_Term Labs from ZyBook 5.3 LAB*: Program: Automobile service invoice for 
+  his Homework IT project management.
+
 
 ## Getting Started
+  This project can be run on local computer.
 
-These instructions will [do something] on your local machine for [development/experimentation/demo]
 
 ### Prerequisites
+    Pyton PyCharm must be installed on local computer
+   
 
-[Project] requires [software and version] to run, with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
+## Running
+
+  This project ZyBook5-3.py can run in PyCharm IDE.
 
 
-## Repairing and Running
-Once installed you can run the program with the following command
+   Add any additional ways to run the program below
+
+
+   This project can run in cmd console by navigating to home directory 
+   where ZyBook5-3.py saved. Runing example is below.
+    C:\Users\VladoPC>PyCharmProjects\Lab1\PythonPractice\ZyBook5-3.py
 
 ```
-python demo.py
-```
-The error returned was [error]. I solved this by [changes] on [lines].
-
-## Thanks
-Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
-Thanks to Zak.
+## Thanks 
+     I did it by self!
